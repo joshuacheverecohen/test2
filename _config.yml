@@ -5,13 +5,13 @@ title:               '"To Autumn"'
 tagline:             'A Digital Edition.'
 description:         'This digital edition of "To Autumn" by John Keats allows readers and scholars to view paralell drafts of the poem alongside the final poem.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/test2'
+baseurl:             '/to-autumn'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Joshua Chévere Cohen
+  url:               
+  email:             joshua.cohen@unlv.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
