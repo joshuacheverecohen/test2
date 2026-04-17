@@ -18,24 +18,29 @@ source: Poetry Foundation
 - Until they think warm days will never cease,
 - {:.indent-6}For summer has o'er-brimm'd their clammy cells.
 
-- O Captain! my Captain! rise up and hear the bells;
-- Rise up—for you the flag is flung—for you the bugle[^fn2] trills,
-- For you bouquets and ribbon’d wreaths—for you the shores a-crowding,
-- For you they call, the swaying mass, their eager faces turning;
-- {:.indent-3}Here Captain! dear father!
-- {:.indent-4}This arm beneath your head!
-- {:.indent-5}It is some dream that on the deck,
-- {:.indent-6}You’ve fallen cold and dead.
+- Who hath not seen thee oft amid thy store?
+- {:.indent-3}Sometimes whoever seeks abroad may find
+- Thee sitting careless on a granary floor,
+- {:.indent-3}Thy hair soft-lifted by the winnowing wind;
+- Or on a half-reap'd furrow sound asleep,
+- {:.indent-3}Drows'd with the fume of poppies, while thy hook
+- {:.indent-6}Spares the next swath and all its twined flowers:
+- And sometimes like a gleaner thou dost keep
+- {:.indent-3}Steady thy laden head across a brook;
+- {:.indent-3}Or by a cyder-press, with patient look,
+- {:.indent-6}Thou watchest the last oozings hours by hours.
 
-
-- My Captain does not answer, his lips are pale and still,[^fn3]
-- My father does not feel my arm, he has no pulse nor will,
-- The ship is anchor’d safe and sound, its voyage closed and done,
-- From fearful trip the victor ship comes in with object won;
-- {:.indent-3}Exult O shores, and ring O bells!
-- {:.indent-4}But I with mournful tread,
-- {:.indent-5}Walk the deck my Captain lies,
-- {:.indent-6}Fallen cold and dead.
+- Where are the songs of spring? Ay, Where are they?
+- {:.indent-3}Think not of them, thou hast thy music too,—
+- While barred clouds bloomthe soft-dying day,
+- {:.indent-3}And touch the stubble-plains with rosy hue;
+- Then in a wailful choir the small gnats mourn
+- {:.indent-3}Among the river sallows, borne aloft
+- {:.indent-6}Or sinking as the light wind lives or dies;
+- And full-grown lambs loud bleat from hilly bourn;
+- {:.indent-3}Hedge-crickets sing; and now with treble soft
+- {:.indent-3}The red-breast whistles from a garden-croft;
+- {:.indent-6}And gathering swallows twitter in the skies.
 
 <br>
 
