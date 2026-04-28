@@ -26,7 +26,7 @@ source: Stillinger
 - {:.indent-4}Thy hair soft lifted by the winnowing wind
 - {:.indent-10}        <del>husky</del>
 - {:.indent-4}<del>While bright the Sun slants through the‸barn;—</del>
-- <del>orr on a half reap'd furrow sound asleep</del>
+- {:.indent-8}<del>orr on a half reap'd furrow sound asleep</del>
 - {:.indent-6}<del>Or sound asleep in a half reaped field</del>
 - {:.indent-8}<del>Dos'd with read poppies; while thy reeping hook</del>
 - {:.indent-6}<del>Spares form Some slumbrous</del>
