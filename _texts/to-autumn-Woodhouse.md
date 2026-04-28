@@ -46,11 +46,9 @@ source: Rollins
 
 Citation: Rollins, Hyder Edward, editor. The Letters of John Keats 1814-1821. vol. 2, Harvard University Press, 1958.
 
-<center><img src="/to-autumn/assets/John_Keats_-_To_Autumn_Manuscript_1_unrestored.jpg" width="800" alt="First page of John Keats autograph manuscript of To Autumn">
-<i>First page of John Keats autograph manuscript of "To Autumn" (Harvard Library, Public Domain)</i></center>
-
-<center><img src="/to-autumn/assets/John_Keats_-_To_Autumn_Manuscript_2_unrestored.jpg" width="800" alt="Second page of John Keats autograph manuscript of To Autumn">
-<i>Second page of John Keats autograph manuscript of "To Autumn" (Harvard Library, Public Domain)</i></center>
+<center><img src="/to-autumn/assets/To_Autumn_Woodhouse_1.jpg" width="800" alt="First page of John Keats autograph manuscript of To Autumn">
+<center><img src="/to-autumn/assets/To_Autumn_Woodhouse_2.jpg" width="800" alt="Second page of John Keats autograph manuscript of To Autumn">
+<i><i>MS Keats 1.64 A.MS. in letter to Richard Woodhouse, 21 September 1819. KeJ 468. (Harvard Library)</i></center>
 
 <br>
 
