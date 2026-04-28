@@ -11,22 +11,22 @@ source: Rollins
 - Conspiring with him how to load and bless  
 - {:.indent-3}The vines with fruit that round the thatch eves run;  
 - To bend with apples the moss’d cottage trees,  
-- {:.indent-3}And fill all fruit with ripeness to the core;  
+- {:.indent-3}And fill all fruit with ripeness to the core;[^fn1]  
 - {:.indent-6}To swell the gourd, and plump the hazle-shells  
 - With a white kernel; to set budding more,  
 - {:.indent-3}And still more later flowers for the bees  
 - {:.indent-3}Untill they think wa[r]m days will never cease  
 - {:.indent-6}For summer has o’er brimm’d ther clammy Cells.  
 
-- Who hath not seen thee oft, amid thy stores?[^fn1]
+- Who hath not seen thee oft, amid thy stores?[^fn2]
 - {:.indent-3}Sometimes, whoever seeks abroad may find
 - Thee sitting careless on a granary floor, 
-- {:.indent-3}Thy hair soft-lifted by the winmowing[^fn2] wind;  
+- {:.indent-3}Thy hair soft-lifted by the winmowing[^fn3] wind;  
 - Or on a half reap’d furrow sound asleep,  
 - {:.indent-3}Dased with the fume of poppies, while thy hook  
 - {:.indent-6}Spares the next swath and all its twined flowers;  
 - And sometimes like a gleaner thou dost keep
-- {:.indent-3}Stready[^fn3] thy laden head across a brook;  
+- {:.indent-3}Stready[^fn4] thy laden head across a brook;  
 - {:.indent-3}Or by a Cyder press, with patient look, 
 - {:.indent-6}Thou watchest the last oozings hours by hours
 
@@ -56,10 +56,10 @@ Citation: Rollins, Hyder Edward, editor. The Letters of John Keats 1814-1821. vo
 
 ## Footnotes
 
-[^fn1]: Rollins: an error for "store."
+[^fn1]: "In the copy for Woodhouse most of the mistakes in spelling are corrected, though a new one is introduced; the cells acquire a capital letter, but the Vines and the Cottage are deprived of theirs; the stanza is more or less punctuated, which indeed it badly needed; and the sixth line is changed so that it runs <i>And fill all fruit with ripeness to the core.</i>" (M.R. Ridley, Keats' Craftmanship, 1933, 283)
 
-[^fn2]: Rollins: "winnowing"
+[^fn2]: Rollins: an error for "store."
 
-[^fn3]: Rollins: "Steady"
+[^fn3]: Rollins: "winnowing."
 
-[^fn6]: Stillinger: Gather'd <i>made out of</i> Gathering
+[^fn4]: Rollins: "Steady."
