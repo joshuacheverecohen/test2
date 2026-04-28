@@ -23,7 +23,7 @@ source: Stillinger
 - {:.indent-10}‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <small>abroad</small>
 - {:.indent-2}Sometimes whoever seeks <del>for thee</del> may find
 - Thee sitting careless on a granary floor
-- {:.indent-4}Thy hair soft lifted by the winnowing wind
+- {:.indent-4}Thy hair soft lifted by the winnowing wind[^fn1]
 - ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ <del><small>husky</small></del>
 - {:.indent-4}<del>While bright the Sun slants through the‸barn;—</del>
 - {:.indent-8}<del><small>orr on a half reap'd furrow sound asleep</small></del>
@@ -49,11 +49,11 @@ source: Stillinger
 - {:.indent-4}Then in a waiful quire the small gnats mourn
 - {:.indent-6}Among the river sallows, <del>on the</del> borne afots
 - {:.indent-8}Or sinking as the light wind lives or dies;
-- {:.indent-4}And full grown Lambs loud bleat from hilly bourn,
+- {:.indent-4}And[^fn2] full grown Lambs loud bleat from hilly bourn,
 - {:.indent-8}Hedge crickets sing, and now again full soft
 - {:.indent-8}The Redbreast whistles from a garden-croft:
 - {:.indent-4}<del>And new flock still</del>
-- {:.indent-8}And Gather'd Swallows twiter in the Skies—
+- {:.indent-8}And[^fn2] Gather'd[^fn3] Swallows twiter in the Skies—
 ‎
 
 <br>
@@ -62,17 +62,8 @@ source: Stillinger
 
 ## Footnotes
 
-[^fn1]:
+[^fn1]: Stillinger: wind <i>made out of</i> wing
 
-	The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her "Letter to John":
+[^fn2]: Stillinger: And <i>written over</i> The <i>(in both lines)</i>
 
-	> - On a windy day let's go flying
-	> - There may be no trees to rest on
-	> - There may be no clouds to ride
-	> - But we'll have our wings and the wind will be with us
-	> - That's enough for me, that's enough for me.
-	{:.poetry}
-
-[^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
-
-[^fn2]: Another footnote. Why not?
+[^fn3]: Gatjer'd <i>made out of</i> Gathering
