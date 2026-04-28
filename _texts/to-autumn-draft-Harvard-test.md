@@ -18,13 +18,13 @@ source: Stillinger
 - {:.indent-4}Until they think warm days will never cease
 - {:.indent-8}For Summer has o'erbrimm'd their clammy cells—
 
-- {:.indent-10}‎ ‎ oft amid thy store?
+- {:.indent-10}‎ ‎ <small>oft amid thy store?</small>
 - Who hath not seen thee<del>? for thy haunts are many</del>
-- {:.indent-10}‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ abroad
+- {:.indent-10}‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <small>abroad</small>
 - {:.indent-2}Sometimes whoever seeks <del>for thee</del> may find
 - Thee sitting careless on a granary floor
 - {:.indent-4}Thy hair soft lifted by the winnowing wind
-- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ <del>husky</del>
+- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ <del><small>husky</small></del>
 - {:.indent-4}<del>While bright the Sun slants through the‸barn;—</del>
 - {:.indent-8}<del>orr on a half reap'd furrow sound asleep</del>
 - {:.indent-6}<del>Or sound asleep in a half reaped field</del>
