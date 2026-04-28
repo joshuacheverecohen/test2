@@ -30,7 +30,7 @@ source: Stillinger
 - {:.indent-6}<del>Or sound asleep in a half reaped field</del>
 - {:.indent-8}<del>Dos'd with read poppies; while thy reeping hook</del>
 - {:.indent-6}<del>Spares form Some slumbrous</del>
-- <del>minutes while wam slumpers creep</del>
+- <p style="text-align: right;"><del>minutes while wam slumpers creep</del></p>
 - {:.indent-4}Or on a half reap'd furrow sound asleep
 - {:.indent-6}Dos'd with the fume of poppies, while thy hook
 - {:.indent-5}Spares the next swath and all its twined flouers
