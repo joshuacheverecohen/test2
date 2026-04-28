@@ -3,7 +3,7 @@ layout: poem
 title: "To Autumn Draft - Harvard"
 author: John Keats
 editor: Joshua Chévere Cohen
-source: Stillinger, Jack, ed. John Keats: Poetry Manuscripts at Harvard: A Facsimile Edition. Belknap Press of Harvard University Press, 1990.
+source: Stillinger
 ---
 
 - Season of Mists and mellow fruitfulness
