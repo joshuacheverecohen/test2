@@ -18,15 +18,15 @@ source: Rollins
 - {:.indent-3}Untill they think wa[r]m days will never cease  
 - {:.indent-6}For summer has o’er brimm’d ther clammy Cells.  
 
-- Who hath not seen thee oft, amid thy stores?
+- Who hath not seen thee oft, amid thy stores?[^fn1]
 - {:.indent-3}Sometimes, whoever seeks abroad may find
 - Thee sitting careless on a granary floor, 
-- {:.indent-3}Thy hair soft-lifted by the winmowing wind;  
+- {:.indent-3}Thy hair soft-lifted by the winmowing[^fn2] wind;  
 - Or on a half reap’d furrow sound asleep,  
 - {:.indent-3}Dased with the fume of poppies, while thy hook  
 - {:.indent-6}Spares the next swath and all its twined flowers;  
 - And sometimes like a gleaner thou dost keep
-- {:.indent-3}Stready thy laden head across a brook;  
+- {:.indent-3}Stready[^fn3] thy laden head across a brook;  
 - {:.indent-3}Or by a Cyder press, with patient look, 
 - {:.indent-6}Thou watchest the last oozings hours by hours
 
@@ -58,14 +58,10 @@ Citation: Rollins, Hyder Edward, editor. The Letters of John Keats 1814-1821. vo
 
 ## Footnotes
 
-[^fn1]: In <i>Keats' Craftsmanship</i> (1933), M.R. Ridley suggests that this draft was written between September 19 and 21, 1819. On September 21, Keats copied the poem in a letter to Richard Woodhouse also reproduced here. While this is the earliest draft of "To Autumn" that exists, the first and third stanzas may have been composed in an earlier, now lost, draft. Ridley believes that the Harvard Library draft may be the first appearance of the poem's second stanza which is significantly revised compared to the first and third. 
+[^fn1]: Rollins: an error for "store."
 
-[^fn2]: The punctuation at the end of this line appears more like a ‿ in the manuscript. Stillinger transcribes this mark as a long dash. 
+[^fn2]: Rollins: "winnowing"
 
-[^fn3]: Stillinger: wind <i>made out of</i> wing
-
-[^fn4]: The grouping of lines from "orr on a half reap'd..." to "minutes while wam slumpers creep" are X'd out in the manuscript.
-
-[^fn5]: Stillinger: And <i>written over</i> The <i>(in both lines)</i>
+[^fn3]: Rollins: "Steady"
 
 [^fn6]: Stillinger: Gather'd <i>made out of</i> Gathering
