@@ -21,7 +21,7 @@ source: Stillinger
 - <p style="text-align: right;">oft amid thy store?</p>
 - Who hath not seen thee<del>? for thy haunts are many</del>
 - <p style="text-align: right;">abroad</p>
-- {:.indent-2}Sometimes whoever seeks <del>for thee</del>> may find
+- {:.indent-2}Sometimes whoever seeks <del>for thee</del> may find
 - Thee sitting careless on a granary floor
 - {:.indent-4}Thy hair soft lifted by the winnowing wind
 - <p style="text-align: right;"><del>husky</del></p>
