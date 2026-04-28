@@ -18,7 +18,7 @@ source: Stillinger, Jack, ed. John Keats: Poetry Manuscripts at Harvard: A Facsi
 - {:.indent-6}Until they think warm days will never cease
 - {:.indent-12}For Summer has o'erbrimm'd their clammy cells—
 
->oft amid thy store?
+- oft amid thy store?
 - Who hath not seen thee<del>? for thy haunts are many</del>
 - abroad
 - {:.indent-3}Sometimes whoever seeks <del>for thee</del>> may find
