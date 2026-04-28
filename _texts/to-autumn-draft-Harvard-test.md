@@ -55,9 +55,13 @@ source: Stillinger
 - {:.indent-4}<del>And new flock still</del>
 - {:.indent-8}And[^fn3] Gather'd[^fn4] Swallows twiter in the Skies—
 
-‎
 
 Citation: Stillinger, Jack, editor. John Keats: Poetry Manuscripts at Harvard: A Facsimile Edition. Belknap Press of Harvard University Press, 1990.
+
+<center><div class="title-image">
+    <img src="/to-autumn/assets/A_Day_with_Keats,_Neatby_plate_-_Autumn.png" width="400" alt="Illustration for "To Autumn" by William James Neatby, from A Day with Keats, 1899">
+  </div>
+<i><p style="font-size: 12px;">Illustration for "To Autumn" by William James Neatby, from A Day with Keats, 1899 (Public Domain)</p></i></center>
 
 <br>
 
