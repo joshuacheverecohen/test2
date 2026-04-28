@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "To Autumn - Letter to Richard Woodhouse"
+title: "To Autumn - Letter to Richard Woodhouse (September 21 1819)"
 author: Reproduced from The Letters of John Keats 1814-1821. vol. 2 ed. Hyder Edward Rollins (1958)
 editor: Joshua Chévere Cohen
 source: Rollins
