@@ -39,8 +39,8 @@ source: Rollins
 - {:.indent-6}Or sinking as the light wind lives and dies;  
 - And full grown Lambs loud bleat from hilly bourne:  
 - {:.indent-3}Hedge crickets sing, and now with treble soft[^fn7]  
-- {:.indent-3}The Red breast whistles from a garden (g) Croft  
-- {:.indent-6}And gather’d[^fn8] Swallows twitter in the Skies—
+- {:.indent-3}The Red breast whistles from a garden ⟨g⟩[^fn8] Croft  
+- {:.indent-6}And gather’d[^fn9] Swallows twitter in the Skies—
 
 
 
@@ -70,4 +70,6 @@ Citation: Rollins, Hyder Edward, editor. The Letters of John Keats 1814-1821. vo
 
 [^fn7]: Ridley: "In the copy made for Woodhouse, apart from spelling corrections, this is the only alteration of importance; <i>and now with treble soft</i> is read for <i>and now again full soft</i>."
 
-[^fn8]: Ridley: "The poem as printed shows the following variations from the copy in the letter: the transposition of order in <i>The vines with fruit</i>; <i>sweet kernel</i> for <i>white kernel</i>; <i>Drows'd</i> for <i>Das'd</i>; and the reversion <i>gathering</i> for <i>gather'd</i>."
+[^fn8]: Rollins transcribes this as ⟨g⟩. To me, it looks like a cancelation of <del>of</del>.
+
+[^fn9]: Ridley: "The poem as printed shows the following variations from the copy in the letter: the transposition of order in <i>The vines with fruit</i>; <i>sweet kernel</i> for <i>white kernel</i>; <i>Drows'd</i> for <i>Das'd</i>; and the reversion <i>gathering</i> for <i>gather'd</i>."
