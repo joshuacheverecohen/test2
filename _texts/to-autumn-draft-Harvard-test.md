@@ -33,7 +33,7 @@ source: Stillinger
 - <del>minutes while wam slumpers creep</del>
 - {:.indent-4}Or on a half reap'd furrow sound asleep
 - {:.indent-6}Dos'd with the fume of poppies, while thy hook
-- Spares the next swath and all its twined flouers
+- {:.indent-5}Spares the next swath and all its twined flouers
 - {:.indent-4}<del>Spares for some slumbrous minutes the next swath;
 - {:.indent-6}And sometimes like a gleans thost dost keep
 - {:.indent-8}Steady thy laden head across the brook;
