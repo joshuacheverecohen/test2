@@ -21,6 +21,7 @@ source: Stillinger
 - {:.indent-10}__oft amid thy store?
 - Who hath not seen thee<del>? for thy haunts are many</del>
 - {:.indent-10}________________abroad
+- {:.indent-10}‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ abroad
 - {:.indent-2}Sometimes whoever seeks <del>for thee</del> may find
 - Thee sitting careless on a granary floor
 - {:.indent-4}Thy hair soft lifted by the winnowing wind
@@ -41,7 +42,7 @@ source: Stillinger
 - {:.indent-6}Thou watchest the last oozing hours by hours.
 
 
-
+‎
 
 <br>
 
