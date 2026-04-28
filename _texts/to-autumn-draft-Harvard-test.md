@@ -42,12 +42,12 @@ source: Stillinger
 
 - Where are the songs of Sping? Aye where are they?
 - {:.indent-2}Think not of them thou hast thy music too—
-- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ barred ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ bloom
+- ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ barred ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ bloom
 - While <del>a gold</del> clouds <del>gilds</del> soft dying day
-- {:.indent-2}And‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  with
-- {:.indent-2}<delAnd</del> Touching <del>the</del> the stibble plains‸rosy hue—
+- {:.indent-2}And‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  with
+- {:.indent-2}<del>And</del> Touching <del>the</del> the stibble plains‸rosy hue—
 - {:.indent-4}Then in a waiful quire the small gnats mourn
-- {:.indent-6}Among the river sallows, <del>on the</del>borne afots
+- {:.indent-6}Among the river sallows, <del>on the</del> borne afots
 - {:.indent-8}Or sinking as the light wind lives or dies;
 - {:.indent-4}And full grown Lambs loud bleat from hilly bourn,
 - {:.indent-8}Hedge crickets sing, and now again full soft
