@@ -11,7 +11,7 @@ source: Stillinger
 - Conspiring with him how to load and bless
 - {:.indent-3}The Vines with fruit that round the thatch eves run
 - {:.indent-6}To bend with apples the moss'd Cottage trees
-- {:.indent-9}And fill all furuits with sweetness to the core
+- {:.indent-10}And fill all furuits with sweetness to the core
 - {:.indent-12}To swell the gourd, and plump the hazle shells
 - {:.indent-3}With a white kernel; to set budding more
 - {:.indent-6}And still more later flowers for the bees
