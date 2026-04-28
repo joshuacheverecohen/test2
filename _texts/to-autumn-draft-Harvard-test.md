@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "To Autumn - Harvard Draft"
-author: Reproduced from John Keats: Poetry Manuscripts at Harvard - A Facsimile Edition ed. Jack Stillinger (1990)
+author: Reproduced from John Keats: Poetry Manuscripts at Harvard A Facsimile Edition ed. Jack Stillinger (1990)
 editor: Joshua Chévere Cohen
 source: Stillinger
 ---
