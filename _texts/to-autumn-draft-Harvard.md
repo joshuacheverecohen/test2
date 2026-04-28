@@ -33,7 +33,7 @@ source: Stillinger, Jack, ed. John Keats: Poetry Manuscripts at Harvard: A Facsi
 - <span class="right-align-note"><del>minutes wguke wam slumpers creep</del></span>
 - {:.indent-6}Or on a half reap'd furrow sound asleep
 - {:.indent-9}Dos'd with the fume of poppies, while thy hook
-- <span class="right-align-note">Spares the next swath and all its twined flouers
+- <span class="right-align-note">Spares the next swath and all its twined flouers</span>
 - {:.indent-6}<del>Spares for some slumbrous minutes the next swath;
 - {:.indent-9}And sometimes like a gleans thost dost keep
 - {:.indent-12}Steady thy laden head across the brook;
