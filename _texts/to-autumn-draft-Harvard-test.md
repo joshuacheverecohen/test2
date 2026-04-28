@@ -18,7 +18,7 @@ source: Stillinger
 - {:.indent-4}Until they think warm days will never cease
 - {:.indent-8}For Summer has o'erbrimm'd their clammy cells—
 
-- {:.indent-10}   oft amid thy store?
+- {:.indent-10}&ZeroWidthSpace;&ZeroWidthSpace;&ZeroWidthSpace;&ZeroWidthSpace;oft amid thy store?
 - Who hath not seen thee<del>? for thy haunts are many</del>
 - {:.indent-10}abroad
 - {:.indent-2}Sometimes whoever seeks <del>for thee</del> may find
