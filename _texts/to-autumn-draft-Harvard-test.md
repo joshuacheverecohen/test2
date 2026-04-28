@@ -30,7 +30,7 @@ source: Stillinger
 - {:.indent-6}<del>Or sound asleep in a half reaped field</del>
 - {:.indent-8}<del>Dos'd with read poppies; while thy reeping hook</del>
 - {:.indent-6}<del>Spares form Some slumbrous</del>
-- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ <del>minutes while wam slumpers creep</del>
+- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ <del>minutes while wam slumpers creep</del>[^fn3]
 - {:.indent-4}Or on a half reap'd furrow sound asleep
 - {:.indent-6}Dos'd with the fume of poppies, while thy hook
 - {:.indent-5}<small>Spares the next swath and all its twined flouers</small>
@@ -49,11 +49,11 @@ source: Stillinger
 - {:.indent-4}Then in a waiful quire the small gnats mourn
 - {:.indent-6}Among the river sallows, <del>on the</del> borne afots
 - {:.indent-8}Or sinking as the light wind lives or dies;
-- {:.indent-4}And[^fn3] full grown Lambs loud bleat from hilly bourn,
+- {:.indent-4}And[^fn4] full grown Lambs loud bleat from hilly bourn,
 - {:.indent-8}Hedge crickets sing, and now again full soft
 - {:.indent-8}The Redbreast whistles from a garden-croft:
 - {:.indent-4}<del>And new flock still</del>
-- {:.indent-8}And[^fn3] Gather'd[^fn4] Swallows twiter in the Skies—
+- {:.indent-8}And[^fn4] Gather'd[^fn5] Swallows twiter in the Skies—
 
 
 Citation: Stillinger, Jack, editor. John Keats: Poetry Manuscripts at Harvard: A Facsimile Edition. Belknap Press of Harvard University Press, 1990.
@@ -74,6 +74,8 @@ Citation: Stillinger, Jack, editor. John Keats: Poetry Manuscripts at Harvard: A
 
 [^fn2]: Stillinger: wind <i>made out of</i> wing
 
-[^fn3]: Stillinger: And <i>written over</i> The <i>(in both lines)</i>
+[^fn3]: The grouping of lines from "orr on a half reap'd..." to "minutes while wam slumpers creep" are X'd out in the manuscript.
 
-[^fn4]: Stillinger: Gather'd <i>made out of</i> Gathering
+[^fn4]: Stillinger: And <i>written over</i> The <i>(in both lines)</i>
+
+[^fn5]: Stillinger: Gather'd <i>made out of</i> Gathering
