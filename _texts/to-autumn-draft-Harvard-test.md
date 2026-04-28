@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "To Autumn - Harvard Draft"
-author: John Keats
+author: Reproduced from John Keats: Poetry Manuscripts at Harvard: A Facsimile Edition ed. Jack Stillinger (1990)
 editor: Joshua Chévere Cohen
 source: Stillinger
 ---
@@ -54,7 +54,10 @@ source: Stillinger
 - {:.indent-8}The Redbreast whistles from a garden-croft:
 - {:.indent-4}<del>And new flock still</del>
 - {:.indent-8}And[^fn2] Gather'd[^fn3] Swallows twiter in the Skies—
+
 ‎
+
+Citation: Stillinger, Jack, editor. John Keats: Poetry Manuscripts at Harvard: A Facsimile Edition. Belknap Press of Harvard University Press, 1990.
 
 <br>
 
