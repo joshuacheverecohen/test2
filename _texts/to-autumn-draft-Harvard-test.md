@@ -66,4 +66,4 @@ source: Stillinger
 
 [^fn2]: Stillinger: And <i>written over</i> The <i>(in both lines)</i>
 
-[^fn3]: Gatjer'd <i>made out of</i> Gathering
+[^fn3]: Stillinger: Gather'd <i>made out of</i> Gathering
