@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "To Autumn Draft - Harvard Test"
+title: "To Autumn - Harvard Draft"
 author: John Keats
 editor: Joshua Chévere Cohen
 source: Stillinger
