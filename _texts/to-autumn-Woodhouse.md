@@ -1,62 +1,50 @@
 ---
 layout: poem
-title: "To Autumn - Harvard Library Draft"
-author: Reproduced from John Keats Poetry Manuscripts at Harvard A Facsimile Edition ed. Jack Stillinger (1990)
+title: "To Autumn - Letter to Richard Woodhouse"
+author: Reproduced from The Letters of John Keats 1814-1821. vol. 2 ed. Hyder Edward Rollins (1958)
 editor: Joshua Chévere Cohen
-source: Stillinger
+source: Rollins
 ---
 
-- Season of Mists and mellow fruitfulness
-- {:.indent-2}Close bosom friend of the naturing sun;
-- Conspiring with him how to load and bless
-- {:.indent-2}The Vines with fruit that round the thatch eves run
-- {:.indent-4}To bend with apples the moss'd Cottage trees
-- {:.indent-6}And fill all furuits with sweetness to the core
-- {:.indent-8}To swell the gourd, and plump the hazle shells
-- {:.indent-2}With a white kernel; to set budding more
-- {:.indent-4}And still more later flowers for the bees
-- {:.indent-4}Until they think warm days will never cease
-- {:.indent-8}For Summer has o'erbrimm'd their clammy cells—[^fn1][^fn2]
+- Season of Mists and mellow fruitfulness,
+- {:.indent-3}Close bosom friend of the maturing sun;  
+- Conspiring with him how to load and bless  
+- {:.indent-3}The vines with fruit that round the thatch eves run;  
+- To bend with apples the moss’d cottage trees,  
+- {:.indent-3}And fill all fruit with ripeness to the core;  
+- {:.indent-6}To swell the gourd, and plump the hazle-shells  
+- With a white kernel; to set budding more,  
+- {:.indent-3}And still more later flowers for the bees  
+- {:.indent-3}Untill they think wa[r]m days will never cease  
+- {:.indent-6}For summer has o’er brimm’d ther clammy Cells.  
 
-- {:.indent-10}‎ ‎ <small>oft amid thy store?</small>
-- Who hath not seen thee<del>? for thy haunts are many</del>
-- {:.indent-10}‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <small>abroad</small>
-- {:.indent-2}Sometimes whoever seeks <del>for thee</del> may find
-- Thee sitting careless on a granary floor
-- {:.indent-4}Thy hair soft lifted by the winnowing wind[^fn3]
-- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ <del><small>husky</small></del>
-- {:.indent-4}<del>While bright the Sun slants through the‸barn;—</del>
-- {:.indent-8}<del><small>orr on a half reap'd furrow sound asleep</small></del>
-- {:.indent-6}<del>Or sound asleep in a half reaped field</del>
-- {:.indent-8}<del>Dos'd with read poppies; while thy reeping hook</del>
-- {:.indent-6}<del>Spares form Some slumbrous</del>
-- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ <del>minutes while wam slumpers creep</del>[^fn4]
-- {:.indent-4}Or on a half reap'd furrow sound asleep
-- {:.indent-6}Dos'd with the fume of poppies, while thy hook
-- {:.indent-5}<small>Spares the next swath and all its twined flouers</small>
-- {:.indent-4}<del>Spares for some slumbrous minutes the next swath;
-- {:.indent-6}And sometimes like a gleans thost dost keep
-- {:.indent-8}Steady thy laden head across the brook;
-- {:.indent-8}Or by a Cyder-press with patent look
-- {:.indent-6}Thou watchest the last oozing hours by hours.
+- Who hath not seen thee oft, amid thy stores?
+- {:.indent-3}Sometimes, whoever seeks abroad may find
+- Thee sitting careless on a granary floor, 
+- {:.indent-3}Thy hair soft-lifted by the winmowing wind;  
+- Or on a half reap’d furrow sound asleep,  
+- {:.indent-3}Dased with the fume of poppies, while thy hook  
+- {:.indent-6}Spares the next swath and all its twined flowers;  
+- And sometimes like a gleaner thou dost keep
+- {:.indent-3}Stready thy laden head across a brook;  
+- {:.indent-3}Or by a Cyder press, with patient look, 
+- {:.indent-6}Thou watchest the last oozings hours by hours
 
-- Where are the songs of Sping? Aye where are they?
-- {:.indent-2}Think not of them thou hast thy music too—
-- ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ barred ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ bloom
-- While <del>a gold</del> clouds <del>gilds</del> soft dying day
-- {:.indent-2}And‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎with
-- {:.indent-2}<del>And</del> Touching <del>the</del> the stibble plains‸rosy hue—
-- {:.indent-4}Then in a waiful quire the small gnats mourn
-- {:.indent-6}Among the river sallows, <del>on the</del> borne afots
-- {:.indent-8}Or sinking as the light wind lives or dies;
-- {:.indent-4}And[^fn5] full grown Lambs loud bleat from hilly bourn,
-- {:.indent-8}Hedge crickets sing, and now again full soft
-- {:.indent-8}The Redbreast whistles from a garden-croft:
-- {:.indent-4}<del>And new flock still</del>
-- {:.indent-8}And[^fn5] Gather'd[^fn6] Swallows twiter in the Skies—
+- Where are the songs of spring? Aye, Where are they?  
+- {:.indent-3}Think not of them, thou hast thy music too.  
+- While barred clouds bloom the soft-dying day  
+- {:.indent-3}And touch the stubble plains with rosy hue:
+- Then in a wailful quire the small gnats mourn  
+- {:.indent-3}Among the river sallows, borne aloft  
+- {:.indent-6}Or sinking as the light wind lives and dies;  
+- And full grown Lambs loud bleat from hilly bourne:  
+- {:.indent-3}Hedge crickets sing, and now with treble soft  
+- {:.indent-3}The Red breast whistles from a garden (g) Croft  
+- {:.indent-6}And gather’d Swallows twitter in the Skies—
 
 
-Citation: Stillinger, Jack, editor. John Keats: Poetry Manuscripts at Harvard: A Facsimile Edition. Belknap Press of Harvard University Press, 1990.
+
+Citation: Rollins, Hyder Edward, editor. The Letters of John Keats 1814-1821. vol. 2, Harvard University Press, 1958.
 
 <center><img src="/to-autumn/assets/John_Keats_-_To_Autumn_Manuscript_1_unrestored.jpg" width="800" alt="First page of John Keats autograph manuscript of To Autumn">
 <i>First page of John Keats autograph manuscript of "To Autumn" (Harvard Library, Public Domain)</i></center>
