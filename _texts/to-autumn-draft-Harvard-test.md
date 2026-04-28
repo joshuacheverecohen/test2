@@ -58,18 +58,11 @@ source: Stillinger
 
 Citation: Stillinger, Jack, editor. John Keats: Poetry Manuscripts at Harvard: A Facsimile Edition. Belknap Press of Harvard University Press, 1990.
 
-<img src="/to-autumn/assets/John_Keats_-_To_Autumn_Manuscript_1_unrestored.jpg" width="400" alt="First page of John Keats autograph manuscript of To Autumn" class="center-image">
-<i><p style="font-size: 12px;">First page of John Keats autograph manuscript of "To Autumn" (Harvard Library, Public Domain)</p></i></center>
+<center><img src="/to-autumn/assets/John_Keats_-_To_Autumn_Manuscript_1_unrestored.jpg" width="800" alt="First page of John Keats autograph manuscript of To Autumn">
+<i>First page of John Keats autograph manuscript of "To Autumn" (Harvard Library, Public Domain)</i></center>
 
-<center><div class="image">
-    <img src="/to-autumn/assets/John_Keats_-_To_Autumn_Manuscript_1_unrestored.jpg" width="400" alt="First page of John Keats autograph manuscript of "To Autumn"">
-  </div>
-<i><p style="font-size: 12px;">First page of John Keats autograph manuscript of "To Autumn" (Harvard Library, Public Domain)</p></i></center>
-
-<center><div class="image">
-    <img src="/to-autumn/assets/John_Keats_-_To_Autumn_Manuscript_2_unrestored.jpg" width="400" alt="Second page of John Keats autograph manuscript of "To Autumn"">
-  </div>
-<i><p style="font-size: 12px;">Second page of John Keats autograph manuscript of "To Autumn" (Harvard Library, Public Domain)</p></i></center>
+<center><img src="/to-autumn/assets/John_Keats_-_To_Autumn_Manuscript_2_unrestored.jpg" width="800" alt="Second page of John Keats autograph manuscript of To Autumn">
+<i>Second page of John Keats autograph manuscript of "To Autumn" (Harvard Library, Public Domain)</i></center>
 
 <br>
 
