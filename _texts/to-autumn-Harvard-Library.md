@@ -74,7 +74,7 @@ Citation: Stillinger, Jack, editor. John Keats: Poetry Manuscripts at Harvard: A
 
 [^fn2]: In <i>Keats' Craftsmanship</i> (1933), M.R. Ridley suggests that this draft was written between September 19 and 21, 1819. On September 21, Keats copied the poem in a letter to Richard Woodhouse also <a href="https://joshuacheverecohen.github.io/to-autumn/texts/to-autumn-Woodhouse">reproduced here</a>. While this is the earliest draft of "To Autumn" that exists, the first and third stanzas may have been composed in an earlier, now lost, draft. Ridley believes that the Harvard Library draft may be the first appearance of the poem's second stanza which is significantly revised compared to the first and third. 
 
-[^fn3]: The punctuation at the end of this line appears more like a ‿ in the manuscript. Stillinger transcribes this mark as a long dash. 
+[^fn3]: The punctuation at the end of this line appears more like a ‿ in the manuscript. Gittings, Ridley, and Stillinger transcribe this mark as an em dash. 
 
 [^fn4]: Stillinger: wind <i>made out of</i> wing
 
