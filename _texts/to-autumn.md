@@ -6,7 +6,7 @@ editor: Joshua Chévere Cohen
 source: Poetry Foundation
 ---
 
-- Season of mists and mellow fruitfulness,[^fn1]
+- Season of mists and mellow fruitfulness,
 - {:.indent-3}Close bosom-friend of the maturing sun;
 - Conspiring with him how to load and bless
 - {:.indent-3}With fruit the vines that round the thatch-eves run;
