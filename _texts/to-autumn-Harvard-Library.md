@@ -70,7 +70,7 @@ Citation: Stillinger, Jack, editor. John Keats: Poetry Manuscripts at Harvard: A
 
 ## Footnotes
 
-[^fn1]: Stillinger, in his introduction to <i>John Keats: Poetry Manuscripts at Harvard: A Facsimile Edition</i> (1990), acknowledges the many mispellings in this draft, noting that some scholars suggest that Keats was either a faulty speller or had a speech impediment. He resolves this by pointing to fair copies of other poems written by Keats for his publisher, noting that they "make clear that the poet could spell and punctuate like a scholar when he wanted to."
+[^fn1]: Stillinger, in his introduction to <i>John Keats: Poetry Manuscripts at Harvard: A Facsimile Edition</i> (1990), acknowledges the many misspellings in this draft, noting that some scholars suggest that Keats was either a faulty speller or had a speech impediment. He resolves this by pointing to fair copies of other poems written by Keats for his publisher, noting that they "make clear that the poet could spell and punctuate like a scholar when he wanted to."
 
 [^fn2]: In <i>The Odes of Keats and Their Earliest Known Manuscripts</i> (1970), editor Robert Gittings notes the word "sweet" is "faintly written" above the word "apparently by a later hand." This same hand can be found throughout the manuscript, noting changes in diction between the manuscript and the standard version of the poem.
 
