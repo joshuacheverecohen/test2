@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "To Autumn"
-author: John Keats
+author: Reproduced from <i>Complete Poems</i> ed. Jack Stillinger (Belknap Press, 1982)
 editor: Joshua Chévere Cohen
 source: Poetry Foundation
 ---
