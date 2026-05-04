@@ -3,7 +3,7 @@ layout: page
 title: Credits
 ---
 
-### [Joshua Chévere Cohen](http://joshuacheverecohen.github.io/) | Editor
+### [Joshua Chévere Cohen](https://github.com/joshuacheverecohen) | Editor
 
 Joshua Chévere Cohen is currently completing graduate work in English literature at the University of Nevada, Las Vegas. His research interests include Romantic period poetry, Milton, Tennyson, medievalism, and digital humanities. 
 
