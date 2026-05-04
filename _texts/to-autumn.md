@@ -3,7 +3,7 @@ layout: poem
 title: "To Autumn"
 author: Reproduced from <i>Complete Poems</i> ed. Jack Stillinger (Belknap Press, 1982)
 editor: Joshua Chévere Cohen
-source: Poetry Foundation
+source: <i>Complete Poems</i> ed. Jack Stillinger (Belknap Press, 1982)
 ---
 
 - Season of mists and mellow fruitfulness,
@@ -43,22 +43,3 @@ source: Poetry Foundation
 - {:.indent-6}And gathering swallows twitter in the skies.
 
 <br>
-
----
-
-## Footnotes
-
-[^fn1]:
-
-	The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her "Letter to John":
-
-	> - On a windy day let's go flying
-	> - There may be no trees to rest on
-	> - There may be no clouds to ride
-	> - But we'll have our wings and the wind will be with us
-	> - That's enough for me, that's enough for me.
-	{:.poetry}
-
-[^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
-
-[^fn3]: Another footnote. Why not?
