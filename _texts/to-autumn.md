@@ -1,9 +1,9 @@
 ---
 layout: poem
 title: "To Autumn"
-author: Reproduced from <i>Complete Poems</i> ed. Jack Stillinger (Belknap Press, 1982)
-editor: Joshua Chévere Cohen
-source: <i>Complete Poems</i> ed. Jack Stillinger (Belknap Press, 1982)
+author: Reproduced from <i>Lamia, Isabella, the Eve of St Agnes and Other Poems</i> (July 1820)
+editor: 
+source: 
 ---
 
 - Season of mists and mellow fruitfulness,
@@ -16,7 +16,7 @@ source: <i>Complete Poems</i> ed. Jack Stillinger (Belknap Press, 1982)
 - {:.indent-3}With a sweet kernel; to set budding more,
 - And still more, later flowers for the bees,
 - Until they think warm days will never cease,
-- {:.indent-6}For summer has o'er-brimm'd their clammy cells.
+- {:.indent-6}For Summer has o'er-brimm'd their clammy cells.
 
 - Who hath not seen thee oft amid thy store?
 - {:.indent-3}Sometimes whoever seeks abroad may find
@@ -30,9 +30,9 @@ source: <i>Complete Poems</i> ed. Jack Stillinger (Belknap Press, 1982)
 - {:.indent-3}Or by a cyder-press, with patient look,
 - {:.indent-6}Thou watchest the last oozings hours by hours.
 
-- Where are the songs of spring? Ay, Where are they?
+- Where are the songs of Spring? Ay, where are they?
 - {:.indent-3}Think not of them, thou hast thy music too,—
-- While barred clouds bloomthe soft-dying day,
+- While barred clouds bloom the soft-dying day,
 - {:.indent-3}And touch the stubble-plains with rosy hue;
 - Then in a wailful choir the small gnats mourn
 - {:.indent-3}Among the river sallows, borne aloft
